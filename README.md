@@ -1,6 +1,6 @@
 # ⚡ Asynchronous TCP Network Scanner & Banner Grabber
 
-## Project Objective
+## Overview
 A high-performance, custom-built TCP port scanner designed to rapidly identify open network services. Standard iterative scanners are often bottlenecked by network timeouts. By utilizing Python's `asyncio` library, this tool bypasses sequential scanning limitations to perform thousands of simultaneous, non-blocking TCP handshakes, followed by raw socket payload delivery to extract service banners.
 
 ## Technical Skills Applied
